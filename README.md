@@ -1,6 +1,7 @@
 # Kaggle-Titanic-Survivor
-This project is based on two datasets of train and test. The train dataset is of 891 items with 12 variables, and we want to make prediction on “survived” of test dataset.  
+This project is based on two datasets of train and test. The train dataset is of 891 items with 12 variables, and we want to make prediction on “survived” of test dataset.  https://www.kaggle.com/c/titanic
 
+These are the data: https://www.kaggle.com/c/titanic/data
 
 On April 15, 1912, the RMS Titanic sank resulting in the loss of 1502 out of 2224 passengers and crew.
 
