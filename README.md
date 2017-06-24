@@ -79,20 +79,20 @@ write.csv(submit, file = "XGB.csv", row.names = FALSE)
 <a href="#top" target="_self">Back to top</a>   
 To better explain those who have bigger chances to survive, I made these pictures with Tableau.
 
-<p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Sex.jpg" width="500" ></p> 
+<p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Sex.jpg" width="700" ></p> 
 <b>Interms of sexuality, most females survived while most males did not make it.</b>  , 
-<p style="text-align:center"><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Age.jpg" height="354.5" width="288.5"></p>    
+<p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Age.jpg" width="500"></p>    
 <b>Interms of age, individuals under 18 years old have more than 50% of chances to surivive, among which babies(who are 0-2 years old) are most likely to survive.</b>   
 <b>Individuals over 18 years old, or adults have less than 50% of chances to surivive, among which seniles(who are over 60 years old) are most unlikely to survive.</b>  
 <b>For youth(18-40 years old) and midlifes(41-60), they have similiar probability to live, which is around 43-44%.</b>  
-<p style="text-align:center"><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Economic.jpg" height="354.5" width="291.5"></p>    
+<p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Economic.jpg" width="500"></p>    
 <b>Interms of economic status, for lower class individuals who are take up major part of all, they have only 24.2% chances to survive.</b>  
 <b>For for middle class individuals, they have 47.3% chances to live.</b>  
 <b>While for rich people, they are most likely to survive, which is up to 63.0%.  
-<p style="text-align:center"><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Family Size.jpg" height="375。5" width="231"></p>      
+<p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Family Size.jpg" width="500"></p>      
 <b>Interms of family size, middle sized families(4-6 people) have 47.3% chances to survive, big families(7-11 people) have only 16.0% to break out, while small families(2-3 people), including single individual(1 person), surprisingly have 38.9% chances to survive.</b>  
 <a href="https://public.tableau.com/views/Titanic_296/AGE?:embed=y&:useGuest=true&:display_count=yes"> You can also see the interactive visualization here</a>  
   
 This my current ranking of this competition on Kaggle. See, still a lot to be improved.
-<img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Titanic ranking.png">   
+<p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Titanic ranking.png" width="500"></p>  
 <a href="#top" target="_self">Back to top</a>  
