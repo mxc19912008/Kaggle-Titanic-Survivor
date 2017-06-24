@@ -91,7 +91,10 @@ To better explain those who have bigger chances to survive, I made these picture
 <b>While for rich people, they are most likely to survive, which is up to 63.0%.  
 <p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Family Size.jpg" width="300"></p>   <b>Interms of family size, middle sized families(4-6 people) have 47.3% chances to survive, big families(7-11 people) have only 16.0% to break out, while small families(2-3 people), including single individual(1 person), surprisingly have 38.9% chances to survive.</b>  
 <a href="https://public.tableau.com/views/Titanic_296/AGE?:embed=y&:useGuest=true&:display_count=yes"> You can also see the interactive visualization here</a>  
+
   
 This my current ranking of this competition on Kaggle. See, still a lot to be improved.
+
+
 <p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Titanic ranking.png" width="500"></p>  
 <a href="#top" target="_self">Back to top</a>  
