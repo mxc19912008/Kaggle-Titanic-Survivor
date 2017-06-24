@@ -80,7 +80,7 @@ write.csv(submit, file = "XGB.csv", row.names = FALSE)
 To better explain those who have bigger chances to survive, I made these pictures with Tableau.
 <img src="http://github.com/mxc19912008/readme_pics/Sex.jpg">  
 <b>Interms of sexuality, most females survived while most males did not make it.</b>  , 
-<p style="text-align:center"><img src="http://github.com/mxc19912008/readme_pics/Age.jpg" height="354.5" width="288.5"></p>    
+<p style="text-align:center"><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Age.jpg" height="354.5" width="288.5"></p>    
 <b>Interms of age, individuals under 18 years old have more than 50% of chances to surivive, among which babies(who are 0-2 years old) are most likely to survive.</b>   
 <b>Individuals over 18 years old, or adults have less than 50% of chances to surivive, among which seniles(who are over 60 years old) are most unlikely to survive.</b>  
 <b>For youth(18-40 years old) and midlifes(41-60), they have similiar probability to live, which is around 43-44%.</b>  
