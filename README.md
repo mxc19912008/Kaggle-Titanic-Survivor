@@ -79,7 +79,7 @@ write.csv(submit, file = "XGB.csv", row.names = FALSE)
 <a href="#top" target="_self">Back to top</a>   
 To better explain those who have bigger chances to survive, I made these pictures with Tableau.
 
-<p style="text-align:center"><img src="http://https://github.com/mxc19912008/readme_pics/blob/master/image/Sex.jpg"height="354.5" width="288.5"></p> 
+<p style="text-align:center"><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Sex.jpg" height="354.5" width="288.5"></p> 
 <b>Interms of sexuality, most females survived while most males did not make it.</b>  , 
 <p style="text-align:center"><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Age.jpg" height="354.5" width="288.5"></p>    
 <b>Interms of age, individuals under 18 years old have more than 50% of chances to surivive, among which babies(who are 0-2 years old) are most likely to survive.</b>   
