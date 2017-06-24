@@ -94,7 +94,7 @@ To better explain those who have bigger chances to survive, I made these picture
 <a href="https://public.tableau.com/views/Titanic_296/AGE?:embed=y&:useGuest=true&:display_count=yes"> You can also see the interactive visualization here.</a>  </p> 
 
   
-<p This my current ranking of this competition on Kaggle. See, still a lot to be improved.</p> 
+<p> This my current ranking of this competition on Kaggle. See, still a lot to be improved.</p> 
 
 <p align=center><img src="https://github.com/mxc19912008/readme_pics/blob/master/image/Titanic ranking.png" width="500"></p>  
 <a href="#top" target="_self">Back to top</a>  
